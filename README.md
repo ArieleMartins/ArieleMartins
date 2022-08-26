@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/ArieleMartins">
-  <img height="150em" src="https://github-readme-status.vercel.app/api?username=ArieleMartins&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-status.vercel.app/api/top-langs/?username=ArieleMartins&layout=compact&langs_counts=16&theme=omni"/>
+  <img height="42%" src="https://github-readme-status.vercel.app/api?username=ArieleMartins&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="50%" src="https://github-readme-status.vercel.app/api/top-langs/?username=ArieleMartins&layout=compact&langs_counts=16&theme=omni"/>
 </div>
 
 ##
@@ -22,5 +22,5 @@
 ##
 
 <div>
-<a href="https://www.linkedin.com/in/ariele-martins-b427541bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a target="_blank" href="https://www.linkedin.com/in/ariele-martins-b427541bb/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
