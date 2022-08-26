@@ -22,5 +22,5 @@
 ##
 
 <div>
-<a target="_blank" href="https://www.linkedin.com/in/ariele-martins-b427541bb/" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/ariele-martins-b427541bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
