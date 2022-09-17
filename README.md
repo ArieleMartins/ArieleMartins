@@ -1,6 +1,6 @@
 ## Olá, me chamo Ariele Martins
 
-- 🌱 Objetivo Profissional: Desenvolvedora Full Stack
+- 🌱 Objetivo Profissional: Desenvolvedora Full Stack / Back-End
 - 😄 Pronouns: ela/dela
 
 <div>
