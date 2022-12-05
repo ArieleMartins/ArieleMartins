@@ -36,5 +36,5 @@
 ![Snake Animation](https://github.com/ArieleMartins/ArieleMartins/blob/output/github-contribution-grid-snake.svg)
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7aaaa&height=120&section=footer"/>
 
