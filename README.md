@@ -1,49 +1,37 @@
-<h1 align="center" >SEJA BEM-VINDO(A)<br>OLÁ, ME CHAMO ARIELE MARTINS</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7aaaa&height=120&section=header"/>
 
-<p align="center">DESENVOLVEDORA FULLSTACK</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7aaaa&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindo(a);Eu+me+chamo+Ariele+Martins;Desenvolvedora+FullStack;)](https://git.io/typing-svg)
 
-<p align="center" >Sou formada em Técnico em Infomática e sou apaixonada por programação <br> Por enquanto estudo atravez de conteúdos gratuitos na 
-internet, porém pretendo cursa Analise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade de emprego na área.</p>
+<img width="100%" src="https://user-images.githubusercontent.com/83427685/205707665-a77f766b-0570-4732-970f-16a1843543cd.png" alt="Sou formada em Técnico em Infomática e sou apaixonada por programação. Pretendo cursa Analise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade de emprego na área."/>
 
-#
-
-<div align="center">
-
-<p>🌱 Objetivo Profissional: Desenvolvedora Full Stack / Back-End</p>
-<p>😄 Pronouns: ela/dela</p>
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArieleMartins&show_icons=true&count_private=true&hide_border=true&title_color=f7aaaa&icon_color=f7aaaa&text_color=c9d1d9&bg_color=0d1117" alt="Ariele Martins Status do perfi Github - Commits - PullRequest - Estrelas - Contribuição e Issues" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArieleMartins&layout=compact&hide_border=true&title_color=f7aaaa&text_color=ffff&bg_color=0d1117" />
 </div>
 
-#
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArieleMartins&bg_color=0d1117&color=eb9999&line=eb9999&point=eb9999&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
-  <h3>Estudando e Evoluindo:</h3>
+  
+  ![estudando](https://user-images.githubusercontent.com/83427685/205713897-717f9d92-7c10-44af-a8a3-fc6e9cc0271d.png)
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  <br>
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  
+
+  ![barra](https://user-images.githubusercontent.com/83427685/205711302-84273911-a529-43e2-910d-f6a4e9ae67c7.png)
 </div>
 
-##
-
 <div align="center">
-<h3>Redes Sociais</h3>
+
+![contato](https://user-images.githubusercontent.com/83427685/205713554-e2a5704c-befc-48d8-ba13-cb76c26820d8.png)
+  
 <a target="_blank" href="https://www.linkedin.com/in/ariele-martins-b427541bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
 
-
-## 
-
-<div align="center">
-  <a href="https://github.com/ArieleMartins">
-  <img height="180em" src="https://github-readme-status.vercel.app/api?username=ArieleMartins&show_icons=true&theme=omni&include_all_commits=true&count_private=true" atl="Status do perfi Github - Commits - PullRequest - Estrelas - Contribuição e Issues"/>
-  <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=ArieleMartins&layout=compact&langs_counts=16&theme=omni" alt="Porcentagem das linguagens mais usadas nos repositórios "/>
-</div>
-
-##
+![barra](https://user-images.githubusercontent.com/83427685/205711302-84273911-a529-43e2-910d-f6a4e9ae67c7.png)
 
 ![Snake Animation](https://github.com/ArieleMartins/ArieleMartins/blob/output/github-contribution-grid-snake.svg)
 
