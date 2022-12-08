@@ -34,8 +34,10 @@
 
 ![barra](https://user-images.githubusercontent.com/83427685/205711302-84273911-a529-43e2-910d-f6a4e9ae67c7.png)
 
+<div align="center">
+
 ![Snake Animation](https://github.com/ArieleMartins/ArieleMartins/blob/output/github-contribution-grid-snake.svg)
 
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7aaaa&height=120&section=footer"/>
-
