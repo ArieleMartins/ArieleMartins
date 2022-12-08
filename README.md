@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArieleMartins&layout=compact&langs_count=7&bg_color=0d1117&title_color=f7aaaa&icon_color=f7aaaa&text_color=ffffff&border_color=00000000"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArieleMartins&bg_color=0d1117&color=eb9999&line=eb9999&point=eb9999&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArieleMartins&bg_color=0d1117&color=eb9999&line=eb9999&point=eb9999&area=true&hide_border=true&border_radius=4.5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   
