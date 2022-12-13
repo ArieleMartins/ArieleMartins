@@ -5,7 +5,7 @@
 <img width="100%" src="https://user-images.githubusercontent.com/83427685/205707665-a77f766b-0570-4732-970f-16a1843543cd.png" alt="Sou formada em Técnico em Infomática e sou apaixonada por programação. Pretendo cursa Analise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade de emprego na área."/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArieleMartins&show_icons=true&bg_color=0d1117&title_color=f7aaaa&icon_color=f7aaaa&text_color=ffffff&border_color=00000000&PATH_1=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"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArieleMartins&show_icons=true&bg_color=0d1117&title_color=f7aaaa&icon_color=f7aaaa&text_color=fffff0&border_color=00000000&PATH_1=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"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArieleMartins&layout=compact&langs_count=7&bg_color=0d1117&title_color=f7aaaa&icon_color=f7aaaa&text_color=ffffff&border_color=00000000&PATH_1=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"/>
 </div>
